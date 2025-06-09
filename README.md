@@ -1,6 +1,6 @@
 # SaaSQuatch Acquisition Intelligence Dashboard
 
-![Dashboard Screenshot](Dashboard Screenshot.jpg)
+[Dashboard Screenshot](docs/Dashboard Screenshot.jpg)
 
 > AI-powered M&A target identification system for private equity and corporate development teams
 
