@@ -55,6 +55,6 @@ Rationale:
 - Actionable acquisition signals
 
 ## References
-1. M&A Best Practices - Harvard Business Review
-2. EBITDA Valuation Multiples - McKinsey & Company
-3. Streamlit Documentation
+1. Harvard Business Review. (2023). *M&A Best Practices*. [https://hbr.org/topic/mergers-and-acquisitions]
+2. McKinsey & Company. (2022). *EBITDA Valuation Approaches*. [https://www.mckinsey.com/valuation-methods] 
+3. Streamlit. (2024). *Documentation*. [https://docs.streamlit.io/]
